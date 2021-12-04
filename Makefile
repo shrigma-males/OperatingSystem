@@ -15,4 +15,3 @@ kernel.i686-elf:
 	
 	cat bootsect.bin kernel.bin > osImage.bin
 
-kernel.x86_64-elf:
